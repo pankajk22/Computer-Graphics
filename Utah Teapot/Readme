@@ -1,4 +1,6 @@
 Read Me:
+
+Problem Statement: UT.pdf
 To compile: python <filename>.py
  WireframeCameraRevolution.py: In this python file camera is rotating around the model.
  SolidTeapotRotation.py : In this python file only model is rotating.
