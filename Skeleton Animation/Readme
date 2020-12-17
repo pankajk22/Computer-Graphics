@@ -1,0 +1,16 @@
+How to run:
+
+Simple run: python Skeleton.py
+There will be output on terminal with 3 options which you want to run.
+Note: The python window need to be closed manually
+
+About Skeleton:
+My skeleton contains 12 bones and all can be animate seperately.
+All the bones have cone and sphere as premitives
+In this Animation Skeleton has 4 animation:
+    1.Static Hi
+    2.Moving Hi
+    3.Simple Walk
+    4.Moon Walk(Dance step)
+
+Note: As there are no feet of the skeleton moon walk could look like little light
