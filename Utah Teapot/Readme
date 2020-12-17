@@ -1,0 +1,8 @@
+Read Me:
+To compile: python <filename>.py
+ WireframeCameraRevolution.py: In this python file camera is rotating around the model.
+ SolidTeapotRotation.py : In this python file only model is rotating.
+
+ Note: As I coded my assignment in Windows it may differs in the implementation.
+ Also I have made some of the changes in the original code as it was giving error.
+ 
